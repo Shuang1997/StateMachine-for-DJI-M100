@@ -1,0 +1,4 @@
+<launch>
+   <node name="GuidanceNode" pkg="guidance" type="guidanceNode" respawn="false" output="screen"> 
+    </node> 
+</launch>

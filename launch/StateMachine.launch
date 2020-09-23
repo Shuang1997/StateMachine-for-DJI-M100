@@ -1,0 +1,6 @@
+<launch>
+
+   <node name="StateMachineNode" pkg="StateMachine" type="StateMachineNode" respawn="false" output="screen"> 
+   </node> 
+
+</launch>

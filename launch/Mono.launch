@@ -1,0 +1,6 @@
+<launch>
+
+   <node name="example_mono_pub" pkg="mono_pub" type="mono_pub" respawn="false" output="screen"> 
+   </node> 
+
+</launch>
